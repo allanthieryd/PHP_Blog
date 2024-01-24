@@ -1,0 +1,5 @@
+Je vais appliquer ces conseils dès maintenant !
+À la place de l'ADA, les français doivent respecter le RGAA: <a style="text-decoration:none;color:white;" href = "https://accessibilite.numerique.gouv.fr/" target ="_blank">https://accessibilite.numerique.gouv.fr/</a>
+Bonjour, A l intérieur de l entreprise aussi les documents publiés doivent être lisibles par tous. Les textes doivent être écrits en utilisant les styles avec des titres hiérarchisés correctement, sans lignes vierges et sans espaces inutiles.
+Les associations demandent que les professionnels du numérique soient formés à l'accessibilité <a style="text-decoration:none;color:white;" href = "https://www.avh.asso.fr/sites/default/files/avh_plaidoyer_pour_laccessibilite_numerique_4_octobre_2022_b.pdf" target ="_blank">https://www.avh.asso.fr/sites/default/files/avh_plaidoyer_pour_laccessibilite_numerique_4_octobre_2022_b.pdf</a>
+La mise en oeuvre du Référentiel général d'amélioration de l'accessibilité concerne à la fois les informaticiens et les juristes.

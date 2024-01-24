@@ -1,0 +1,36 @@
+Comment apprendre à coder ? 🤔 | Programmation 💻 | Pour survivre dans le monde moderne, il faut posséder certaines compétences : Des compétences telles que savoir comment désactiver le lissage des mouvements sur la télévision de vos parents, ou comment exécuter la dernière danse TikTok. Mais plus que tout, c'est peut-être le fait de savoir coder qui changera le plus votre vie.
+
+Si vous parvenez à maîtriser les outils les plus modernes du codage, vous pourrez alors accéder à de nouvelles opportunités professionnelles, à un revenu plus élevé et passer moins de temps à effectuer des tâches administratives subalternes que le code peut faire à votre place. Mais comment commencer à coder ? Quelles sont les premières étapes ? Lisez la suite pour le savoir.
+
+Mais d'abord, n'oubliez pas de consulter le guide de Live Science sur le codage et la programmation si vous n'êtes pas encore sûr de ce qu'est le codage. Lorsque vous serez prêt à coder, Live Science propose également un guide des meilleurs ordinateurs portables pour le codage.  
+Quel langage dois-je apprendre ?
+
+Si vous ne savez pas par où commencer, JavaScript est un excellent point de départ. Selon l'enquête de Stack Overflow sur les développeurs en 2022 (s'ouvre dans un nouvel onglet), JavaScript est le langage de programmation le plus utilisé aujourd'hui, et il vous permettra d'acquérir de solides bases dans les principes fondamentaux de la programmation orientée objet.
+
+JavaScript (s'ouvre dans un nouvel onglet) est extrêmement flexible, ayant dépassé ses origines en tant que langage de script pour afficher du contenu dynamique sur les sites web pour devenir un langage plus général. Par exemple, vous pouvez même l'utiliser pour interagir avec le matériel et exécuter des systèmes dorsaux à l'aide d'un "runtime" appelé Node.
+
+En fin de compte, le choix du langage à apprendre dépend de ce que vous voulez faire. Par exemple, si vous souhaitez créer des applications pour l'iPhone, vous pouvez commencer par Swift. Ce langage de programmation de haut niveau vous permet de créer des applications de base dotées de fonctions standard telles que des menus et des boutons, en quelques lignes de code seulement.
+
+Si vous souhaitez vous lancer dans le grand bain et créer des logiciels complexes, le langage C# est tout indiqué (ou Rust, si vous souhaitez apprendre un langage de pointe). Mais si vous voulez simplement faire quelque chose de simple, le meilleur endroit pour commencer est Python, qui est à la fois facile à prendre en main et très puissant. Python est incroyablement utile pour d'innombrables petites tâches informatiques qui pourraient autrement vous prendre des heures dans une feuille de calcul Microsoft Excel.
+Sur quelle plateforme dois-je écrire le code ?
+
+Si vous voulez un moyen absolument infaillible de commencer, achetez un Raspberry Pi. Il s'agit d'un minuscule ordinateur de la taille de votre paume, mais entièrement fonctionnel, qui peut être utilisé avec un moniteur et un clavier/souris branchés, ou qui peut fonctionner "sans tête" sur votre réseau domestique, agissant comme un serveur web local.
+
+Cela signifie que vous pouvez exécuter votre code sur un ordinateur complètement séparé et, en cas de problème, il est facile de l'effacer et de recommencer - il n'est pas nécessaire d'endommager votre système d'exploitation réel, critique pour votre travail, pendant que vous expérimentez du code.
+
+Une autre solution, en particulier si vous souhaitez développer des applications web ou écrire des scripts Python, consiste à louer un ordinateur dans le nuage à l'aide d'Amazon EC2. La mise en place de cette solution est délicate, mais elle vous permet d'accéder à un ordinateur Linux distant sur lequel vous pouvez faire tout ce que vous voulez, moyennant une somme modique versée chaque mois.
+
+Si vous initiez un enfant au monde du codage, il existe de nombreux jouets de codage qui lui apprendront les bases de la logique conditionnelle et d'autres concepts importants, sans que cela ne semble être un travail difficile.
+Dans quelles applications dois-je écrire du code ?
+
+Chaque langage possède un environnement de développement légèrement différent. Certains langages disposent de suites de développement complètes. Par exemple, Apple propose Xcode, une application Mac complète permettant d'écrire des applications pour iPhone, iPad et Mac.
+
+Mais il existe également des applications plus générales. L'environnement de développement intégré le plus populaire à l'heure actuelle est Visual Studio Code, ou VS Code, de Microsoft, selon l'enquête de Stack Overflow. Visual Studio Code fonctionne avec un certain nombre de langages différents pour mettre en évidence la syntaxe au fur et à mesure que vous écrivez, ce qui permet de s'assurer plus facilement que vos variables, chaînes de caractères et classes sont toutes en ordre.
+
+Enfin, si vous êtes vraiment un acharné et que vous voulez vous sentir dans la Matrice, vous pouvez toujours écrire directement dans le terminal de votre système d'exploitation, à l'aide d'une application telle que Nano ou Emacs. Mais ce n'est probablement pas le meilleur endroit pour commencer pour les débutants absolus.
+Où puis-je apprendre en ligne ?
+
+
+Il existe de nombreux endroits où vous pouvez apprendre à coder en ligne, souvent gratuitement. Des sites comme Udemy (s'ouvre dans un nouvel onglet) et Code Academy (s'ouvre dans un nouvel onglet) vous apprendront les bases en un rien de temps, en divisant l'apprentissage en différents cours et leçons, afin que vous puissiez apprendre à votre propre rythme dans un environnement sûr.
+
+Si vous vous sentez plus ambitieux, la meilleure façon d'apprendre est parfois de le faire - et de jouer avec le code de quelqu'un d'autre. Je n'ai pas appris par le biais d'une quelconque formation.

@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+}
+
+h1{
+    font-size:3em;
+    font-family: 'Times New Roman', Times, serif;
+    text-align:center;
+}
+
+h2{
+    background-color: rgb(201, 201, 201);
+    padding-top:20px;
+    text-align: center;
+    padding-right:0%;
+    flex-basis: 50%;
+    font-family:'Comfortaa';
+}
+
+.articles{
+    width:100%;
+    display:flex;
+    flex-wrap:wrap;
+}
+
+.serv ul {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0;
+}
+
+.serv ul li {
+  list-style: none;
+  flex: 0 0 33.333333%;
+}
+

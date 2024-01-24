@@ -1,0 +1,66 @@
+Comment rendre son site accessible ? 🦯 | Programmation 💻 |  Vous installeriez une rampe d'accès pour les fauteuils roulants et d'autres aménagements pour les personnes handicapées dans un magasin de détail, mais avez-vous réfléchi à la manière de rendre le site web de votre entreprise également accessible ? Dans quelle mesure votre site est-il convivial pour les personnes handicapées ? En tant que propriétaire d'entreprise, il vous incombe de veiller à ce que votre site web soit accessible, et le fait de disposer d'un site pleinement fonctionnel est l'un des aspects d'une solide stratégie de marketing en matière de commerce électronique. Mais il ne s'agit pas seulement d'une considération commerciale ; s'assurer que votre site web est réellement utilisable par tous est tout simplement la bonne chose à faire.
+Qu'est-ce qu'un site web accessible ?
+
+Un site web accessible est un site qui peut être utilisé par tout le monde, y compris par les personnes sourdes ou aveugles, ou qui naviguent par la voix, ainsi que par toute personne souffrant d'un handicap vocal, visuel, auditif, cognitif ou physique.
+
+Cette liste de considérations peut sembler décourageante, mais la création d'un site web accessible n'est pas aussi difficile qu'on pourrait le croire. Voici deux exemples de la manière dont votre site de commerce électronique peut être facilement modifié pour répondre aux besoins des personnes ayant des besoins particuliers :
+Redimensionner, replacer ou recolorer le texte ou les graphiques pour répondre aux besoins des personnes souffrant de déficiences visuelles.
+Fournir un bouton qui interrompt les animations et les dessins clignotants afin que la page soit plus accessible aux personnes épileptiques.
+
+Vous n'êtes pas obligé d'apporter ces changements tout seul. Il existe de nombreuses ressources abordables pour vous aider à créer un site web de commerce électronique accessible grâce à la puissance de l'intelligence artificielle. Vous pouvez également faire appel à une agence de conception de sites web pour créer un site accessible, même si cela peut s'avérer difficile car toutes les entreprises ne comprennent pas ce qu'est l'accessibilité d'un site web et comment un site doit être créé et mis à jour pour être conforme à la loi américaine sur les personnes handicapées (Americans with Disabilities Act, ADA). [Voir nos conseils sur la conception de sites web pour les petites entreprises].
+Comment créer un site de commerce électronique accessible ?
+
+Si vous décidez de créer vous-même un site de commerce électronique accessible, vous pouvez le faire rapidement et efficacement si vous disposez des informations et du savoir-faire nécessaires. Les trois conseils suivants vous aideront à démarrer, et n'oubliez pas de consulter nos recommandations concernant les meilleures plates-formes de commerce électronique.
+1. Commencez par prendre en compte les aspects visuels et auditifs.
+
+Il existe de nombreux types de handicaps et, même s'il est important de tenir compte de tous, il faut bien commencer par quelque chose. Commencez par rendre votre site web accessible aux personnes aveugles ou sourdes, ou dont la vision ou l'audition est limitée.
+
+Pensez aux utilisateurs qui naviguent sur l'internet par la voix et le design. Assurez-vous que le texte de votre site est accessible aux personnes aveugles ou malvoyantes ; par exemple, intégrez un lecteur d'écran dans votre boutique de commerce électronique afin que le texte puisse être lu par une personne qui, autrement, utiliserait le braille pour lire. D'autres éléments importants à inclure sont les transcriptions textuelles du contenu visuel pour les utilisateurs qui ont besoin d'un autre moyen de comprendre le contenu qu'ils ne peuvent pas voir.
+
+Un simple ajustement qui peut faire une grande différence consiste à définir clairement la langue de votre site web (anglais, espagnol, etc.). Certaines personnes utilisent des lecteurs de texte pour accéder à l'internet. Si l'utilisateur connaît la langue de votre site web, il pourra utiliser le lecteur de texte plus facilement et plus efficacement.
+2. Se concentrer sur les moindres détails de l'accessibilité du site web.
+
+Lorsque vous construisez votre site de commerce électronique en tenant compte de l'accessibilité, vous devez penser à la facilité d'utilisation, à l'apparence, à la présentation et au contrôle par l'utilisateur. Voici ce que cela signifie en pratique :
+
+Facilité d'utilisation
+
+Veillez à ce que chaque partie de votre site web ait plus d'un point d'accès. Par exemple, si une personne atteinte de sclérose latérale amyotrophique (SLA) utilise ses yeux comme curseur, elle peut avoir besoin d'un clavier à l'écran pour remplir un formulaire. Le clavier physique ne doit pas être la seule option dont dispose l'utilisateur pour saisir des informations.
+
+Un champ de recherche doit également être disponible pour que les utilisateurs puissent rechercher rapidement des informations et accéder à ce dont ils ont besoin. Il est également judicieux d'inclure un plan du site qui indique aux utilisateurs où trouver d'autres informations sur le site.
+
+L'apparence
+
+Les utilisateurs doivent pouvoir zoomer sur le contenu. Plus précisément, ils doivent pouvoir agrandir le texte à 200 % et le lire facilement. Vous devez également indiquer clairement les informations qui font l'objet d'un lien hypertexte et, dans l'idéal, indiquer à l'utilisateur où le lien le redirigera. Les hyperliens doivent être soulignés, en gras, en italique et/ou dans une couleur différente pour se distinguer du texte normal.
+
+
+Veillez également à ce que votre design reste cohérent d'une page à l'autre et d'une section à l'autre. Si un texte souligné indique généralement un lien hypertexte, il ne faut pas qu'il signifie également que quelque chose est important. Vous devez être cohérent dans votre mise en page et votre conception afin que votre site web soit plus facilement accessible et compris.
+
+Présentation
+
+Le texte descriptif est un contenu écrit qui décrit clairement le sens et fournit des informations. Les titres imbriqués permettent aux utilisateurs d'appareils d'assistance de mieux comprendre les grandes lignes et la structure du contenu de votre site web.
+
+La couleur doit être utilisée comme un élément de conception et ne doit pas être nécessaire pour comprendre le contenu. Si la couleur est porteuse de sens, une alternative ou une explication doit également être présente. Les formulaires doivent également être faciles à remplir et à corriger. Votre formulaire peut être simple, mais il doit définir clairement ce qui est requis, signaler les erreurs et aider les utilisateurs à comprendre la voie à suivre pour résoudre le problème.
+
+Utilisez des étiquettes, qui permettent à toutes les images, vidéos et autres éléments visuels d'être utiles aux personnes, même si elles ne peuvent pas voir clairement les informations. Prenez également le temps de vous assurer que votre code HTML ne contient pas d'erreurs, telles que des liens brisés. Aucun consommateur ne sera impressionné par un site qui n'est pas fonctionnel.
+
+Contrôle de l'utilisateur
+
+Les fenêtres pop-up automatiques peuvent être le rêve d'un spécialiste du marketing et le pire cauchemar d'un client. Éviter les fenêtres pop-up est une bonne pratique pour une conception accessible, mais si vous devez les utiliser, faites-le avec précaution. Si votre site comporte des fenêtres pop-up, veillez à ce qu'elles soient faciles à quitter pour tous vos clients.
+
+Par ailleurs, plus vous éviterez les éléments automatiques, mieux ce sera. Vous ne voulez pas qu'une vidéo soit lue automatiquement ou que l'apparence de votre site change sans que l'utilisateur ait à intervenir. Par ailleurs, l'utilisateur doit pouvoir modifier toute partie de votre site qui dépend du temps. Certaines personnes ont besoin de plus de temps pour effectuer des activités. Assurez-vous que votre site web n'est pas temporisé ou qu'il ne gêne pas une personne qui a besoin d'un temps prolongé pour utiliser votre site.
+3. Offrir un service à la clientèle sans faille.
+
+Il est judicieux que votre site propose automatiquement d'aider tout utilisateur qui éprouve des difficultés à naviguer sur votre site web. Que la personne soit handicapée ou non, le fait de lui proposer une solution de rechange lorsqu'elle éprouve des difficultés peut grandement améliorer la satisfaction de la clientèle.
+
+Vos clients doivent pouvoir entrer en contact avec votre entreprise par différents canaux. Les utilisateurs du commerce électronique veulent pouvoir vous joindre par courrier électronique, par chat en direct et par téléphone. Assurez-vous que votre site web est capable de lancer facilement ces méthodes de communication afin que les consommateurs puissent vous contacter sans problème, qu'ils soient handicapés ou non. Après tout, la technologie doit améliorer la communication, et non l'entraver.
+Pourquoi l'accessibilité et la conformité à l'ADA sont-elles importantes ?
+
+Si vous voulez que votre site web réussisse dans le monde moderne, il doit être accessible à tous. La création d'un site web accessible est la meilleure chose à faire. L'internet est un outil extraordinaire, et tout le monde devrait avoir une chance égale de l'utiliser et de bénéficier de ses offres.
+
+La réglementation de l'ADA exige que les installations commerciales soient conçues de manière à être accessibles aux personnes handicapées. Bien qu'il n'existe actuellement aucune norme juridique applicable en matière d'accessibilité du web, de nombreux magasins de commerce électronique sont tenus de se conformer à l'ADA. (Voir les questions juridiques auxquelles sont confrontées toutes les entreprises de commerce électronique).
+
+Toute entreprise employant au moins 15 personnes à temps plein ou fonctionnant au moins 20 semaines par an doit être conforme à l'ADA. Les entreprises qui exploitent un établissement public, comme une banque ou un hôtel, sont également tenues de se conformer à la réglementation de l'ADA. Cette obligation s'applique quel que soit le nombre d'employés ou le nombre de semaines d'activité par an de l'entreprise. En outre, les entreprises dont les sites web sont inaccessibles aux sourds, aux aveugles, aux personnes qui naviguent à la voix ou à toute autre personne souffrant d'un handicap visuel, auditif, cognitif ou physique peuvent être poursuivies en justice, même si la réglementation définissant l'accessibilité des sites web n'est pas encore complètement arrêtée.
+
+Les considérations relatives à l'accessibilité ne concernent pas seulement les clients ; il se peut que vous deviez prendre des mesures d'adaptation pour les employés handicapés. L'embauche de personnes handicapées peut en fait être bénéfique pour votre entreprise, alors ne vous laissez pas décourager par la nécessité éventuelle de procéder à des aménagements.
+
+La création d'un site web accessible aidera vos clients actuels, vos futurs clients et votre entreprise dans son ensemble. Certes, rendre votre site web accessible ne vous semblera peut-être pas aussi rapide et facile que certaines des autres tâches de votre liste de choses à faire, mais cela en vaut la peine à long terme. Plus votre site est accessible, plus vous avez de chances d'avoir des clients satisfaits. En outre, l'optimisation de l'accessibilité de votre site est un choix commercial judicieux et une démarche socialement responsable.
